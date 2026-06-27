@@ -1,0 +1,1520 @@
+[
+    {
+        "sinta_id": "5980049",
+        "nama_dosen": "DEWI WISNU WARDANI",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Sains Data",
+        "bidang_keahlian": [
+            "Semantic Web",
+            "Knowledge Management"
+        ],
+        "daftar_publikasi": {
+            "scopus": [
+                {
+                    "judul": "An Analysis of an ESP32-Based IoT System for Soil Moisture, Nutrient, and pH Control in Black Betel Cultivation",
+                    "sumber": "Proceedings Icsintesa 2025 2025 5th International Conference of Science and Information Technology i",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Smart Home Prototype for Rain Prediction Using Artificial Neural Network Algorithm",
+                    "sumber": "International Conference on Computer Control Informatics and Its Applications Ic3ina",
+                    "quartile": "Q4 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "The Impact of Data Splitting Techniques on the Accuracy of Rumour Detection Models in Microblogging Platforms: A Comparative Analysis",
+                    "sumber": "7th International Seminar on Research of Information Technology and Intelligent Systems Advanced Int",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Automatic Semantic Annotation of Indonesian Language Phrase Using N-Gram Language Model",
+                    "sumber": "International Journal on Advanced Science Engineering and Information Technology",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Comparing Correlation-Based Feature Selection and Symmetrical Uncertainty for Student Dropout Prediction",
+                    "sumber": "Jurnal Resti",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Merchant Segmentation Using K-Modes Clustering as QRIS Marketing Recommendations",
+                    "sumber": "Aip Conference Proceedings",
+                    "quartile": "Q4 as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Automated SPARQL Template for Flexible Question Answering",
+                    "sumber": "International Journal on Advanced Science Engineering and Information Technology",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Flexible Semantic Qur’an Question Answering Using Graph-Based Summarization and KNN",
+                    "sumber": "International Journal on Informatics Visualization",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Fast Naïve Bayes classifiers for COVID-19 news in social networks",
+                    "sumber": "Indonesian Journal of Electrical Engineering and Computer Science",
+                    "quartile": "no-Q as Journal",
+                    "tahun": 2024,
+                    "sitasi": 5
+                },
+                {
+                    "judul": "Performance Comparison of AES, Grain V1, and RC4 Algorithms on the MQTT Protocol",
+                    "sumber": "2023 10th International Conference on Information Technology Computer and Electrical Engineering Ici",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2023,
+                    "sitasi": 3
+                }
+            ],
+            "wos": [
+                {
+                    "judul": "Comparative Analysis of RSA and NTRU Algorithms and Implementation in the Cloud",
+                    "sumber": "WOS.ESCI Edition",
+                    "quartile": "",
+                    "tahun": 2022,
+                    "sitasi": 3
+                },
+                {
+                    "judul": "Measuring Positive and Negative Association of Apriori Algorithm with Cosine Correlation Analysis",
+                    "sumber": "WOS.ESCI Edition",
+                    "quartile": "",
+                    "tahun": 2021,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "The Evaluation of Semantic Mapping",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2020,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "The Utilization of Ontology in Association Rule",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2020,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Improving Graph-Based Summarization with HTML Tag and Metadata Features",
+                    "sumber": "WOS.ESCI Edition",
+                    "quartile": "",
+                    "tahun": 2020,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Academicopter: Metasearch with PDF Automatic Summary of Scientific Articles",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2019,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "The Mashup Relevant Content Module for Content Management System (CMS)",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2018,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Using Metadata in Detection Spam Email with Pornography Content",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2018,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Rich-Link Oriented Graph Model for Improving Query Performance",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2017,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Semantic Mapping Relational to A Directed Property Hypergraph Model",
+                    "sumber": "WOS.ISTP Edition",
+                    "quartile": "",
+                    "tahun": 2015,
+                    "sitasi": 2
+                }
+            ],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Template Pivot Predicate SPARQL On Weighted APRDF",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Weighting The Risk of People’s Movement During Pandemic by Using Customized PageRank",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "HYRA: Hybrid Stemmer for Javanese Language",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Template Pivot Predicate SPARQL On Weighted APRDF",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Node clustering using graph convolutional networks for movie recommendation",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "HYRA: Hybrid Stemmer for Javanese Language",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Integration of structured data, images, and files using Wu-Palmer, Ratcliff-Obershelp and direct mapping as knowledge graphs",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Node clustering using graph convolutional networks for movie recommendation",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Weighting The Risk of People’s Movement During Pandemic by Using Customized PageRank",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Integration of structured data, images, and files using Wu-Palmer, Ratcliff-Obershelp and direct mapping as knowledge graphs",
+                    "sumber": "International Journal of Artificial Intelligence (IJ-AI), -, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "EXPERT SYSTEM BERBASIS NEURO-SYMBOLIC ARTIFICIAL INTELLIGENCE UNTUK PENDUKUNG KEPUTUSAN PEMILIHAN BIDANG AKADEMIK",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Bambang Widoyono",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 55.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SEEING THE MARKET AHEAD: EXPLAINABLE AI FORECASTING FOR INDONESIA’S IHSG",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN KOLABORASI INTERNASIONAL (KI-UNS) )",
+                "personil": [
+                    "Fajar Muslim",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 75.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "EVALUASI INDIVIDUAL FAIRNESS PADA AUTOMATED ESSAY SCORING MENGGUNAKAN COUNTERFACTUAL-BASED ANALYSIS",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Afrizal Doewes",
+                    "Haryono Setiadi",
+                    "Hasan Dwi Cahyono",
+                    "Muhammad Fahmy Nadhif",
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 60.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "UNDERSTANDING, ROBUSTNESS, AND EXPLAINABILITY OF TRANSFORMER-BASED TEXT REPRESENTATIONS FOR BAHASA INDONESIA",
+                "leader": "Rini Anggrainingsih",
+                "skema": "NON APBN UNS ( PENELITIAN KOLABORASI INTERNASIONAL TOP 100 (ITOP-100 UNS) )",
+                "personil": [
+                    "Afrizal Doewes",
+                    "Bambang Widoyono",
+                    "Dewi Wisnu Wardani"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 120.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENCARI JAWABAN TERSTRUKTUR DARI UNSTRUCTURED DATA DENGAN CUSTOMIZED INVERTED INDEX",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) A )",
+                "personil": [
+                    "Rini Anggrainingsih",
+                    "Hasan Dwi Cahyono",
+                    "Afrizal Doewes",
+                    "Haryono Setiadi"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 75.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "DSearch: Prototipe Searching Basis Data Dengan Perintah Suara",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "Penelitian Kompetitif Nasional ( PRO )",
+                "personil": [
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 64.610.000",
+                "status": "Approved",
+                "sumber": "BIMA SOURCE"
+            },
+            {
+                "judul": "ALGORITMA MODIFIED PAGERANK UNTUK PEMBOBOTAN SCORE RESIKO PENYEBARAN PENYAKIT BERDASAR GRAPH PERGERAKAN ORANG",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN ( PENELITIAN HIBAH GRUP RISET (PENELITIAN HGR-UNS) A )",
+                "personil": [
+                    "Hasan Dwi Cahyono",
+                    "Haryono Setiadi",
+                    "Afrizal Doewes",
+                    "Ardhi Wijayanto",
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2024,
+                "dana": "Rp. 90.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PEMBOBOTAN AP-RDF UNTUK PIVOT PREDICATE RETRIEVAL PROCESSING",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN ( PENELITIAN FUNDAMENTAL (PF-UNS) )",
+                "personil": [
+                    "Bambang Harjito",
+                    "Ardhi Wijayanto"
+                ],
+                "tahun": 2024,
+                "dana": "Rp. 46.500.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "Membangun Local Knowledge Graph Dari Data Terstruktur",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "Penelitian Kompetitif Nasional ( PD )",
+                "personil": [
+                    "Bambang Harjito"
+                ],
+                "tahun": 2023,
+                "dana": "Rp. 77.925.000",
+                "status": "Approved",
+                "sumber": "BIMA SOURCE"
+            },
+            {
+                "judul": "PEMBOBOTAN AP-RDF UNTUK PIVOT PREDICATE RETRIEVAL PROCESSING",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "PNBP ( PENELITIAN FUNDAMENTAL (PF-UNS) )",
+                "personil": [
+                    "Bambang Harjito",
+                    "Ardhi Wijayanto"
+                ],
+                "tahun": 2023,
+                "dana": "Rp. 50.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6904770",
+        "nama_dosen": "BAMBANG WIDOYONO",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Informatika",
+        "bidang_keahlian": [
+            "Data Management",
+            "Machine Learning",
+            "Data Scientist",
+            "Software Engineering",
+            "Project Management"
+        ],
+        "daftar_publikasi": {
+            "scopus": [],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Aspect-Based Sentiment Analysis of Access by KAI Application Reviews Using IndoBERT for Multi-Label Classification Tasks",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 7 (1), 286-306, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Peningkatan Kualitas Administrasi Pendidikan melalui Implementasi Sistem Edu Berbasis ERP di SMP IT Insan Mulia Surakarta, Jawa Tengah",
+                    "sumber": "Jurnal Abdi Masyarakat Indonesia 5 (6), 2509-2526, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Sentence embedding to improve rumour detection performance model",
+                    "sumber": "International Journal of Artificial Intelligence 13 (International Journal …, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Analisis Tingkat Kematangan Open Government Data Menggunakan OD-MM di Pemerintah Provinsi Aceh",
+                    "sumber": "Jurnal Informatika Ekonomi Bisnis, 640-652, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "The Impact of Data Splitting Techniques on the Accuracy of Rumour Detection Models in Microblogging Platforms: A Comparative Analysis",
+                    "sumber": "2024 7th International Seminar on Research of Information Technology and …, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Sentiment analysis of learning from home during pandemic covid-19 in indonesia",
+                    "sumber": "International Conference on Economics, Business, Social, and Humanities …, 2021",
+                    "quartile": "",
+                    "tahun": 2021,
+                    "sitasi": 6
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "UNDERSTANDING, ROBUSTNESS, AND EXPLAINABILITY OF TRANSFORMER-BASED TEXT REPRESENTATIONS FOR BAHASA INDONESIA",
+                "leader": "Rini Anggrainingsih",
+                "skema": "NON APBN UNS ( PENELITIAN KOLABORASI INTERNASIONAL TOP 100 (ITOP-100 UNS) )",
+                "personil": [
+                    "Afrizal Doewes",
+                    "Bambang Widoyono",
+                    "Dewi Wisnu Wardani"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 120.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENGEMBANGAN SISTEM REKOMENDASI DOSEN PENGUJI SKRIPSI BERBASIS BERTOPIC DENGAN PENDEKATAN DIRECTED SIMILARITY",
+                "leader": "Ristu Saptono",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) C )",
+                "personil": [
+                    "Akhmad Syaifuddin",
+                    "Arif Rohmadi",
+                    "Bambang Widoyono",
+                    "Brilyan Hendrasuryawan"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 20.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "EXPERT SYSTEM BERBASIS NEURO-SYMBOLIC ARTIFICIAL INTELLIGENCE UNTUK PENDUKUNG KEPUTUSAN PEMILIHAN BIDANG AKADEMIK",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Bambang Widoyono",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 55.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "IMPLEMENTASI SMART WASTE MANAGEMENT SYSTEM BERBASIS IOT UNTUK OTOMATISASI DAN INTERGRASI TEMPAT SAMPAH CERDAS PADA FASILITAS PUBLIK",
+                "leader": "Ristu Saptono",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) C )",
+                "personil": [
+                    "Akhmad Syaifuddin",
+                    "Arif Rohmadi",
+                    "Bambang Widoyono",
+                    "Brilyan Hendrasuryawan"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 20.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6990421",
+        "nama_dosen": "MUHAMMAD FAHMY NADHIF",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Sains Data",
+        "bidang_keahlian": [],
+        "daftar_publikasi": {
+            "scopus": [],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "EXPERT SYSTEM BERBASIS NEURO-SYMBOLIC ARTIFICIAL INTELLIGENCE UNTUK PENDUKUNG KEPUTUSAN PEMILIHAN BIDANG AKADEMIK",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Bambang Widoyono",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 55.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SEEING THE MARKET AHEAD: EXPLAINABLE AI FORECASTING FOR INDONESIA’S IHSG",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN KOLABORASI INTERNASIONAL (KI-UNS) )",
+                "personil": [
+                    "Fajar Muslim",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 75.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "EVALUASI INDIVIDUAL FAIRNESS PADA AUTOMATED ESSAY SCORING MENGGUNAKAN COUNTERFACTUAL-BASED ANALYSIS",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Afrizal Doewes",
+                    "Haryono Setiadi",
+                    "Hasan Dwi Cahyono",
+                    "Muhammad Fahmy Nadhif",
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 60.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6904479",
+        "nama_dosen": "FAJAR MUSLIM",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Sains Data",
+        "bidang_keahlian": [
+            "natural language processing",
+            "social media monitoring"
+        ],
+        "daftar_publikasi": {
+            "scopus": [
+                {
+                    "judul": "Evaluating Trustworthiness of Twitter Users: Addressing Data Drift and Domain Relevance Through Novel Dataset Creation and Feature Analysis",
+                    "sumber": "2024 11th International Conference on Advanced Informatics Concept Theory and Application Icaicta 20",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Cost-Sensitive Learning and Ensemble BERT for Identifying and Categorizing Offensive Language in Social Media",
+                    "sumber": "Proceedings 2021 8th International Conference on Advanced Informatics Concepts Theory and Applicatio",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2021,
+                    "sitasi": 4
+                }
+            ],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Uncovering Hoax Patterns in Indonesia via Data Analytics and BERTopic with IndoBERT on Turnbackhoax. id Articles",
+                    "sumber": "2025 International Conference on Computer Engineering, Network and …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Evaluating Trustworthiness of Twitter Users: Addressing Data Drift and Domain Relevance Through Novel Dataset Creation and Feature Analysis",
+                    "sumber": "2024 11th International Conference on Advanced Informatics: Concept, Theory …, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Cost-sensitive learning and ensemble bert for identifying and categorizing offensive language in social media",
+                    "sumber": "2021 8th international conference on advanced informatics: Concepts, theory …, 2021",
+                    "quartile": "",
+                    "tahun": 2021,
+                    "sitasi": 5
+                },
+                {
+                    "judul": "Implementation of CNN-SVM with Index Pattern-Based Feature Selection on PPG Signals for Cuffless Hypertension Detection",
+                    "sumber": "INDONESIAN JOURNAL OF APPLIED PHYSICS 15 (2), 329-342, 0",
+                    "quartile": "",
+                    "tahun": 0,
+                    "sitasi": 0
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "PENERAPAN ALGORITMA KYBER-DILITHIUM UNTUK KEAMANAN DATA PADA TRANSPORT SECURITY LAYER",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Endra Pratama",
+                    "Ery Permana Yudha",
+                    "Fajar Muslim"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 36.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SEEING THE MARKET AHEAD: EXPLAINABLE AI FORECASTING FOR INDONESIA’S IHSG",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENELITIAN KOLABORASI INTERNASIONAL (KI-UNS) )",
+                "personil": [
+                    "Fajar Muslim",
+                    "Muhammad Fahmy Nadhif"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 75.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "AI-BASED INTRUSION DETECTION SYSTEM (IDS) FOR CYBERSECURITY IN COMPUTER NETWORKS",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Ardhi Wijayanto",
+                    "Endra Pratama",
+                    "Ery Permana Yudha",
+                    "Fajar Muslim"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENERAPAN ALGORITMA KYBER-DILITHIUM UNTUK KEAMANAN DATA PADA TRANSPORT SECURITY LAYER",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Fajar Muslim",
+                    "Ery Permana Yudha",
+                    "Endra Pratama"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 45.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6921217",
+        "nama_dosen": "ENDRA PRATAMA",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Informatika",
+        "bidang_keahlian": [
+            "Business Intelligence"
+        ],
+        "daftar_publikasi": {
+            "scopus": [],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Perancangan dan Implementasi Game Edukasi 3D\" Solid Figure Shooter\" Berbasis Unity Engine dalam Pembelajaran Pengenalan Bangun Ruang pada Siswa Kelas III Sekolah Dasar (SD)",
+                    "sumber": "LOFIAN: Jurnal Teknologi Informasi dan Komunikasi 4 (1), 57-63, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 1
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "PENERAPAN ALGORITMA KYBER-DILITHIUM UNTUK KEAMANAN DATA PADA TRANSPORT SECURITY LAYER",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Endra Pratama",
+                    "Ery Permana Yudha",
+                    "Fajar Muslim"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 36.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "AI-BASED INTRUSION DETECTION SYSTEM (IDS) FOR CYBERSECURITY IN COMPUTER NETWORKS",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Ardhi Wijayanto",
+                    "Endra Pratama",
+                    "Ery Permana Yudha",
+                    "Fajar Muslim"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "COMBATING HOAX IN SOCIAL MEDIA USING AUTOMATED, EXPLAINABLE FACT-CHECKING WITH KNOWLEDGE GRAPH AND VECTOR DATABASES",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) C )",
+                "personil": [
+                    "Ery Permana Yudha",
+                    "Endra Pratama"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 20.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENERAPAN ALGORITMA KYBER-DILITHIUM UNTUK KEAMANAN DATA PADA TRANSPORT SECURITY LAYER",
+                "leader": "Bambang Harjito",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Fajar Muslim",
+                    "Ery Permana Yudha",
+                    "Endra Pratama"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 45.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6111815",
+        "nama_dosen": "ESTI SURYANI",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Sains Data",
+        "bidang_keahlian": [
+            "Image Processing"
+        ],
+        "daftar_publikasi": {
+            "scopus": [
+                {
+                    "judul": "Group Decision Support System (GDSS) for DASS-21 Score Interpretation Using Fuzzy-IOWA and Genetic Algorithm",
+                    "sumber": "International Journal of Intelligent Engineering and Systems",
+                    "quartile": "Q2 as Journal",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "COMPARATIVE ANALYSIS OF NAÏVE BAYES AND SUPPORT VECTOR MACHINE ALGORITHMS FOR MEDIASTINAL AND LUNG CANCER CLASSIFICATION",
+                    "sumber": "Journal of Engineering and Technology for Industrial Applications",
+                    "quartile": "Q4 as Journal",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Breast Cancer Classification on Ultrasound Images Using DenseNet Framework with Attention Mechanism",
+                    "sumber": "Journal of Electronics Electromedical Engineering and Medical Informatics",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Model Group Decision Support System Based on Depression Anxiety Stress Scales Using Ordered Weighted Averaging Aggregation Method",
+                    "sumber": "Journal of Electronics Electromedical Engineering and Medical Informatics",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Application of Random Forest Algorithm with Information Gain Feature Selection for Baby Birth Weight Classification",
+                    "sumber": "Proceedings International Conference on Informatics and Computational Sciences",
+                    "quartile": "Q3 as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Comparing Correlation-Based Feature Selection and Symmetrical Uncertainty for Student Dropout Prediction",
+                    "sumber": "Jurnal Resti",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Residual Network with Squeeze-And-Excitation Block for White Blood Cell Classification in Acute Myeloid Leukemia",
+                    "sumber": "Proceedings International Conference on Informatics and Computational Sciences",
+                    "quartile": "Q3 as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "The use of genetic algorithm and particle swarm optimization on tiered feature selection method in machine learning-based coronary heart disease diagnosis system",
+                    "sumber": "International Journal of Electrical and Computer Engineering",
+                    "quartile": "no-Q as Journal",
+                    "tahun": 2024,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "e-LSTM: EfficientNet and Long Short-Term Memory Model for Detection of Glaucoma Diseases",
+                    "sumber": "International Journal of Online and Biomedical Engineering",
+                    "quartile": "Q2 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Implementation and Improvement of EfficientNetV2 Model With GRU to Classify White Blood Cell Types",
+                    "sumber": "Proceedings of the International Conference on Computer Engineering Network and Intelligent Multimed",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 1
+                }
+            ],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Comparative Analysis of Naïve Bayes and Support Vector Machine Algorithms for Mediastinal and Lung Cancer Classification",
+                    "sumber": "ITEGAM-JETIA 11 (56), 227-239, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Residual Transformer Fusion Network for Salt and Pepper Image Denoising",
+                    "sumber": "arXiv e-prints, arXiv: 2502.09000, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Residual Transformer Fusion Network for Salt and Pepper Image Denoising",
+                    "sumber": "arXiv e-prints, arXiv: 2502.09000, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Comparative Analysis of Naïve Bayes and Support Vector Machine Algorithms for Mediastinal and Lung Cancer Classification",
+                    "sumber": "ITEGAM-JETIA 11 (56), 227-239, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Breast Cancer Classification on Ultrasound Images Using DenseNet Framework with Attention Mechanism",
+                    "sumber": "Journal of Electronics, Electromedical Engineering, and Medical Informatics …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Usaha Peningkatan Standar Mutu UMKM Jamu Herbal Ratu Botani Solo di Surakarta",
+                    "sumber": "SEMAR (Jurnal Ilmu Pengetahuan, Teknologi, dan Seni bagi Masyarakat) 14 (2 …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Model Group Decision Support System Based on Depression Anxiety Stress Scales Using Ordered Weighted Averaging Aggregation Method",
+                    "sumber": "Journal of Electronics, Electromedical Engineering, and Medical Informatics …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Breast Cancer Classification on Ultrasound Images Using DenseNet Framework with Attention Mechanism",
+                    "sumber": "Journal of Electronics, Electromedical Engineering, and Medical Informatics …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Model Group Decision Support System Based on Depression Anxiety Stress Scales Using Ordered Weighted Averaging Aggregation Method",
+                    "sumber": "Journal of Electronics, Electromedical Engineering, and Medical Informatics …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Using Decision Tree With First and Second-Order Statistical Feature Extraction for Classification of Lung Cancer",
+                    "sumber": "INDONESIAN JOURNAL OF APPLIED PHYSICS 14 (2), 339-352, 2024",
+                    "quartile": "",
+                    "tahun": 2024,
+                    "sitasi": 1
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "SISTEM CERDAS BERBASIS MACHINE LEARNING UNTUK MENINGKATKAN AKURASI DIAGNOSIS KANKER LIMFOMA MEDIASTINUM",
+                "leader": "Mohtar Yunianto",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL A (PFA-UNS) )",
+                "personil": [
+                    "Esti Suryani",
+                    "Fuad Anwar"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 47.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENGEMBANGAN KERANGKA KERJA CERDAS BERBASIS PERSEPSI VISUAL DAN OPTIMASI METAHEURISTIK UNTUK PEMODELAN MENU GIZI SEIMBANG MENGACU PADA PEDOMAN GIZI INDONESIA",
+                "leader": "Wiharto",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Esti Suryani",
+                    "Shaifudin Zuhdi",
+                    "Umi Salamah"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 63.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "KLASIFIKASI PENYAKIT PADA TANAMAN KENTANG MENGGUNAKAN ALGORITMA MOBILENETV3 DENGAN FINETUNING LAYER FREEZING",
+                "leader": "Umi Salamah",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Esti Suryani",
+                    "Shaifudin Zuhdi",
+                    "Wiharto",
+                    "Wisnu Widiarto"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "GEOGRAPHICALLY WEIGHTED RANDOM FOREST UNTUK PREDIKSI NILAI HUMAN DEVELOPMENT INDEX KABUPATEN/KOTA DI JAWA TENGAH",
+                "leader": "Shaifudin Zuhdi",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Wiharto",
+                    "Esti Suryani",
+                    "Wisnu Widiarto"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SISTEM PENDUKUNG KEPUTUSAN KELOMPOK BERBASIS DASS-21 UNTUK PENILAIAN GANGGUAN DEPRESI, KECEMASAN, DAN STRESS",
+                "leader": "Wiharto",
+                "skema": "NON APBN UNS ( PENELITIAN UNGGULAN TERAPAN (PUT-UNS) )",
+                "personil": [
+                    "Esti Suryani",
+                    "Umi Salamah"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 85.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SISTEM CERDAS BERBASIS MACHINE LEARNING UNTUK MENINGKATKAN AKURASI DIAGNOSIS KANKER LIMFOMA MEDIASTINUM",
+                "leader": "Mohtar Yunianto",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL A (PFA-UNS) )",
+                "personil": [
+                    "Fuad Anwar",
+                    "Esti Suryani"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 47.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "RESIDUAL NETWORK DENGAN SQUEEZE AND EXCITATION BLOCK UNTUK KLASIFIKASI SEL DARAH PUTIH PADA ACUTE MYELOID LEUKEMIA",
+                "leader": "Umi Salamah",
+                "skema": "NON APBN ( PENELITIAN HIBAH GRUP RISET (PENELITIAN HGR-UNS) B )",
+                "personil": [
+                    "Wiharto",
+                    "Ristu Saptono",
+                    "Wisnu Widiarto",
+                    "Esti Suryani"
+                ],
+                "tahun": 2024,
+                "dana": "Rp. 60.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SISTEM PENDUKUNG KEPUTUSAN KELOMPOK BERBASIS DASS-21 UNTUK PENILAIAN GANGGUAN DEPRESI, KECEMASAN, DAN STRESS",
+                "leader": "Wiharto",
+                "skema": "NON APBN ( PENELITIAN UNGGULAN TERAPAN (PUT-UNS) )",
+                "personil": [
+                    "Umi Salamah",
+                    "Esti Suryani"
+                ],
+                "tahun": 2024,
+                "dana": "Rp. 88.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "Pengembangan Model Intelligent Systems Untuk Deteksi Dini Faktor Risiko dan Kejadian Penyakit Jantung Koroner dengan Mempertimbangkan Biaya",
+                "leader": "Wiharto",
+                "skema": "Penelitian Kompetitif Nasional ( PD )",
+                "personil": [
+                    "Esti Suryani",
+                    "Sigit Setyawan"
+                ],
+                "tahun": 2023,
+                "dana": "Rp. 67.420.000",
+                "status": "Approved",
+                "sumber": "BIMA SOURCE"
+            },
+            {
+                "judul": "INTERPRETASI DATA KLINIS FAKTOR RISIKO UNTUK DETEKSI DINI PENYAKIT JANTUNG KORONER MENGGUNAKAN ALGORITMA C5.0",
+                "leader": "Wiharto",
+                "skema": "PNBP ( PENELITIAN HIBAH GRUP RISET (PENELITIAN HGR-UNS) B )",
+                "personil": [
+                    "Umi Salamah",
+                    "Esti Suryani",
+                    "Wisnu Widiarto"
+                ],
+                "tahun": 2023,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6904403",
+        "nama_dosen": "SHAIFUDIN ZUHDI",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Informatika",
+        "bidang_keahlian": [
+            "Pemrograman Statistik"
+        ],
+        "daftar_publikasi": {
+            "scopus": [
+                {
+                    "judul": "A Comparison of Fixed and Adaptive Approach With Gaussian and Bisquare Functions in Geographically Weighted Random Forest",
+                    "sumber": "Proceedings 2025 9th International Conference on Information Technology Information Systems and Elec",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "R programming for parameters estimation of geographically weighted ordinal logistic regression (GWOLR) model based on Newton Raphson",
+                    "sumber": "Aip Conference Proceedings",
+                    "quartile": "Q4 as Conference Proceedin",
+                    "tahun": 2017,
+                    "sitasi": 4
+                },
+                {
+                    "judul": "Parameters Estimation of Geographically Weighted Ordinal Logistic Regression (GWOLR) Model",
+                    "sumber": "Journal of Physics Conference Series",
+                    "quartile": "Q4 as Conference Proceedin",
+                    "tahun": 2017,
+                    "sitasi": 4
+                }
+            ],
+            "wos": [],
+            "garuda": [],
+            "googlescholar": [
+                {
+                    "judul": "Analisis Pola Global dan Lokal Determinan Prevalensi Stunting di Jawa Tengah Tahun 2024 Menggunakan Geographically Weighted Regression",
+                    "sumber": "Jurnal Kesehatan Masyarakat Indonesia 21 (1), 48-56, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Stroke Risk Prediction using Winsorizing Interquartile Range and Tree-Based Classification with Explainable Artificial Intelligence",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 6 (6), 5418-5434, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "A Comparison of Fixed and Adaptive Approach With Gaussian and Bisquare Functions in Geographically Weighted Random Forest",
+                    "sumber": "2025 9th International Conference on Information Technology, Information …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Geographically weighted random forests for human development index of Central Java prediction",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 6 (4), 2756-2768, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Estimasi Nilai Parameter Model Geographically Weighted Ordinal Logistic Regression Menggunakan Metode Broyden-Fletcher-Goldfarb-Shanno pada Indeks Pembangunan Manusia",
+                    "sumber": "Universitas Gadjah Mada, 2021",
+                    "quartile": "",
+                    "tahun": 2021,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "R programming for parameters estimation of geographically weighted ordinal logistic regression (GWOLR) model based on Newton Raphson",
+                    "sumber": "AIP Conference Proceedings 1827 (1), 020029, 2017",
+                    "quartile": "",
+                    "tahun": 2017,
+                    "sitasi": 4
+                },
+                {
+                    "judul": "Masalah Nilai Awal pada Iterasi Newton Raphson untuk Estimasi Parameter Model Regresi Logistik Ordinal Terboboti Geografis (RLOTG)",
+                    "sumber": "Seminar Nasional Matematika dan Pendidikan Matematika 2016 1, 916 - 923, 2017",
+                    "quartile": "",
+                    "tahun": 2017,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Parameters estimation of geographically weighted ordinal logistic regression (GWOLR) model",
+                    "sumber": "Journal of Physics: Conference Series 855 (1), 012064, 2017",
+                    "quartile": "",
+                    "tahun": 2017,
+                    "sitasi": 12
+                },
+                {
+                    "judul": "MASALAH NILAI AWAL ITERASI NEWTON RAPHSON UNTUK ESTIMASI PARAMETER MODEL REGRESI LOGISTIK ORDINAL TERBOBOTI GEOGRAFIS (RLOTG)",
+                    "sumber": "no. November, 927-934, 2016",
+                    "quartile": "",
+                    "tahun": 2016,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "Komputasi Metode Newton Raphson dengan Software R untuk Estimasi Parameter Model Regresi Logistik Ordinal Terboboti Secara Geografis (RLOTG)",
+                    "sumber": "Universitas Sebelas Maret, 2016",
+                    "quartile": "",
+                    "tahun": 2016,
+                    "sitasi": 0
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "PENGEMBANGAN KERANGKA KERJA CERDAS BERBASIS PERSEPSI VISUAL DAN OPTIMASI METAHEURISTIK UNTUK PEMODELAN MENU GIZI SEIMBANG MENGACU PADA PEDOMAN GIZI INDONESIA",
+                "leader": "Wiharto",
+                "skema": "NON APBN UNS ( PENELITIAN FUNDAMENTAL B (PFB-UNS) )",
+                "personil": [
+                    "Esti Suryani",
+                    "Shaifudin Zuhdi",
+                    "Umi Salamah"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 63.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "KLASIFIKASI PENYAKIT PADA TANAMAN KENTANG MENGGUNAKAN ALGORITMA MOBILENETV3 DENGAN FINETUNING LAYER FREEZING",
+                "leader": "Umi Salamah",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Esti Suryani",
+                    "Shaifudin Zuhdi",
+                    "Wiharto",
+                    "Wisnu Widiarto"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "GEOGRAPHICALLY WEIGHTED RANDOM FOREST UNTUK PREDIKSI NILAI HUMAN DEVELOPMENT INDEX KABUPATEN/KOTA DI JAWA TENGAH",
+                "leader": "Shaifudin Zuhdi",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Wiharto",
+                    "Esti Suryani",
+                    "Wisnu Widiarto"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            }
+        ]
+    },
+    {
+        "sinta_id": "6727972",
+        "nama_dosen": "HASAN DWI CAHYONO",
+        "institusi": "Universitas Sebelas Maret",
+        "prodi": "S1 - Sains Data",
+        "bidang_keahlian": [
+            "Software Development",
+            "Computational Intelligence"
+        ],
+        "daftar_publikasi": {
+            "scopus": [
+                {
+                    "judul": "An Analysis of an ESP32-Based IoT System for Soil Moisture, Nutrient, and pH Control in Black Betel Cultivation",
+                    "sumber": "Proceedings Icsintesa 2025 2025 5th International Conference of Science and Information Technology i",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Comparative Analysis of Classification Algorithms Using Feature Selection Techniques to Predict On-Time Student Graduation",
+                    "sumber": "Ingenierie Des Systemes D Information",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Comparing Correlation-Based Feature Selection and Symmetrical Uncertainty for Student Dropout Prediction",
+                    "sumber": "Jurnal Resti",
+                    "quartile": "Q3 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Fast Naïve Bayes classifiers for COVID-19 news in social networks",
+                    "sumber": "Indonesian Journal of Electrical Engineering and Computer Science",
+                    "quartile": "no-Q as Journal",
+                    "tahun": 2024,
+                    "sitasi": 5
+                },
+                {
+                    "judul": "Smart Home Prototype for Rain Prediction Using Artificial Neural Network Algorithm",
+                    "sumber": "International Conference on Computer Control Informatics and Its Applications Ic3ina",
+                    "quartile": "Q4 as Journal",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Optimizing Speech Feature Extraction: A Comparative Study of MFCC, MFDWC, and MFWPC for Integration with Xception Block-Based CNN in Speech Emotion",
+                    "sumber": "2024 International Conference on Data Science and Its Applications Icodsa 2024",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Merchant Segmentation Using K-Modes Clustering as QRIS Marketing Recommendations",
+                    "sumber": "Aip Conference Proceedings",
+                    "quartile": "Q4 as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "The Impact of Data Splitting Techniques on the Accuracy of Rumour Detection Models in Microblogging Platforms: A Comparative Analysis",
+                    "sumber": "7th International Seminar on Research of Information Technology and Intelligent Systems Advanced Int",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2024,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Intelligent Web Service System for Detecting Cyberbullying on Twitter Based on Support Vector Machine and Random Forest Algorithms",
+                    "sumber": "Proceedings Iccteie 2023 2023 International Conference on Converging Technology in Electrical and In",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2023,
+                    "sitasi": 2
+                },
+                {
+                    "judul": "Performance Comparison of AES, Grain V1, and RC4 Algorithms on the MQTT Protocol",
+                    "sumber": "2023 10th International Conference on Information Technology Computer and Electrical Engineering Ici",
+                    "quartile": "no-Q as Conference Proceedin",
+                    "tahun": 2023,
+                    "sitasi": 3
+                }
+            ],
+            "wos": [],
+            "garuda": [
+                {
+                    "judul": "Comparative Analysis of GPT-2 Augmentation, ALBERT, and Similarity Measures for Cyberbullying Detection",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) Vol. 7 No. 2 (2026): JUTIF Volume 7, Number 2, April 2026875-890",
+                    "quartile": "Accred : Sinta 2",
+                    "tahun": 2026,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "OPTIMIZATION OF STOCK PRICE PREDICTION WITH RIDGE REGRESSION AND HYPERPARAMETER SELECTIONS",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) Vol. 6 No. 1 (2025): JUTIF Volume 6, Number 1, February 2025141-148",
+                    "quartile": "Accred : Sinta 2",
+                    "tahun": 2025,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "A sentiment analysis on skewed product reviews: Ben & Jerry's ice cream",
+                    "sumber": "Indonesian Journal of Electrical Engineering and Computer Science Vol 39, No 1: July 2025364-373",
+                    "quartile": "Accred : Unknown",
+                    "tahun": 2025,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "PENINGKATAN KAPASITAS DIGITALISASI PEMBELAJARAN DAN KEHUMASAN DI MI CAWAN MELALUI PENYEDIAAN PERANGKAT KONTEN DIGITAL",
+                    "sumber": "Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate Social Responsibility (PKM-CSR) Vol 8 (2025): Penguatan Ekonomi Masyarakat Berbasis Ekologis untuk Mencapai Keberlanjutan Menuju Ind26-33",
+                    "quartile": "Accred : Unknown",
+                    "tahun": 2025,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "Enhancing Participatory Learning at SMP Negeri 2 Jaten Karanganyar through the Integration of Technology",
+                    "sumber": "Amalee: Indonesian Journal of Community Research and Engagement Vol 5 No 1 (2024): Amalee: Indonesian Journal of Community Research and Engagement351-366",
+                    "quartile": "Accred : Sinta 3",
+                    "tahun": 2024,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "PENINGKATAN KEAMANAN LINGKUNGAN DENGAN PENERAPAN CCTV DI DUKUH SRIMULYO",
+                    "sumber": "MINDA BAHARU Vol 8, No 2 (2024): Minda Baharu459-470",
+                    "quartile": "Accred : Sinta 3",
+                    "tahun": 2024,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "SENTIMENT ANALYSIS CLASSIFICATION IN WOMEN'S E-COMMERCE REVIEWS WITH MACHINE LEARNING APPROACH",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) Vol. 5 No. 6 (2024): JUTIF Volume 5, Number 6, Desember 20241549-1559",
+                    "quartile": "Accred : Sinta 2",
+                    "tahun": 2024,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "STOCK PREDICTION PERFORMANCE OPTIMIZATION: ENHANCING COVARIANCE MATRIX WITH KNN",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) Vol. 5 No. 6 (2024): JUTIF Volume 5, Number 6, Desember 20241561-1567",
+                    "quartile": "Accred : Sinta 2",
+                    "tahun": 2024,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "Enhancing Participatory Learning at SMP Negeri 2 Jaten Karanganyar through the Integration of Technology",
+                    "sumber": "Amalee: Indonesian Journal of Community Research and Engagement Vol. 5 No. 1 (2024): Amalee: Indonesian Journal of Community Research and Engagement351-366",
+                    "quartile": "Accred : Sinta 3",
+                    "tahun": 2024,
+                    "sitasi": 10
+                },
+                {
+                    "judul": "IMPLEMENTASI TEKNOLOGI SMART CAMERA BERBASIS INTERNET OF THING (IoT) PENDUKUNG PENGELOLA SEKOLAH DALAM MECEGAH PERUNDUNGAN (BULLYING) PESERTA DIDIK",
+                    "sumber": "Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate Social Responsibility (PKM-CSR) Vol 5 (2022): PERAN PERGURUAN TINGGI DAN DUNIA USAHA DALAM AKSELERASI PEMULIHAN DAMPAK PANDEMI1-10",
+                    "quartile": "Accred : Unknown",
+                    "tahun": 2022,
+                    "sitasi": 10
+                }
+            ],
+            "googlescholar": [
+                {
+                    "judul": "Comparative Analysis of GPT-2 Augmentation, ALBERT, and Similarity Measures for Cyberbullying Detection",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 7 (2), 875-890, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "Comparative Analysis of GPT-2 Augmentation, ALBERT, and Similarity Measures for Cyberbullying Detection",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 7 (2), 875-890, 2026",
+                    "quartile": "",
+                    "tahun": 2026,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "PENINGKATAN KAPASITAS DIGITALISASI PEMBELAJARAN DAN KEHUMASAN DI MI CAWAN MELALUI PENYEDIAAN PERANGKAT KONTEN DIGITAL",
+                    "sumber": "Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "PENINGKATAN KAPASITAS DIGITALISASI PEMBELAJARAN DAN KEHUMASAN DI MI CAWAN MELALUI PENYEDIAAN PERANGKAT KONTEN DIGITAL",
+                    "sumber": "Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "A sentiment analysis on skewed product reviews: Ben & Jerry's ice cream",
+                    "sumber": "Indonesian Journal of Electrical Engineering and Computer Science 39 (1 …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "An Analysis of an ESP32-Based IoT System for Soil Moisture, Nutrient, and pH Control in Black Betel Cultivation",
+                    "sumber": "2025 5th International Conference of Science and Information Technology in …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 0
+                },
+                {
+                    "judul": "OPTIMIZATION OF STOCK PRICE PREDICTION WITH RIDGE REGRESSION AND HYPERPARAMETER SELECTIONS",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 6 (1), 141-148, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "An Analysis of an ESP32-Based IoT System for Soil Moisture, Nutrient, and pH Control in Black Betel Cultivation",
+                    "sumber": "2025 5th International Conference of Science and Information Technology in …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "OPTIMIZATION OF STOCK PRICE PREDICTION WITH RIDGE REGRESSION AND HYPERPARAMETER SELECTIONS",
+                    "sumber": "Jurnal Teknik Informatika (Jutif) 6 (1), 141-148, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                },
+                {
+                    "judul": "A sentiment analysis on skewed product reviews: Ben & Jerry's ice cream",
+                    "sumber": "Indonesian Journal of Electrical Engineering and Computer Science 39 (1 …, 2025",
+                    "quartile": "",
+                    "tahun": 2025,
+                    "sitasi": 1
+                }
+            ],
+            "rama": []
+        },
+        "daftar_penelitian": [
+            {
+                "judul": "EVALUASI INDIVIDUAL FAIRNESS PADA AUTOMATED ESSAY SCORING MENGGUNAKAN COUNTERFACTUAL-BASED ANALYSIS",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) B )",
+                "personil": [
+                    "Afrizal Doewes",
+                    "Haryono Setiadi",
+                    "Hasan Dwi Cahyono",
+                    "Muhammad Fahmy Nadhif",
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2026,
+                "dana": "Rp. 60.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "PENCARI JAWABAN TERSTRUKTUR DARI UNSTRUCTURED DATA DENGAN CUSTOMIZED INVERTED INDEX",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN UNS ( PENGUATAN KAPASITAS GRUP RISET (PKGR-UNS) A )",
+                "personil": [
+                    "Rini Anggrainingsih",
+                    "Hasan Dwi Cahyono",
+                    "Afrizal Doewes",
+                    "Haryono Setiadi"
+                ],
+                "tahun": 2025,
+                "dana": "Rp. 75.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "ALGORITMA MODIFIED PAGERANK UNTUK PEMBOBOTAN SCORE RESIKO PENYEBARAN PENYAKIT BERDASAR GRAPH PERGERAKAN ORANG",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "NON APBN ( PENELITIAN HIBAH GRUP RISET (PENELITIAN HGR-UNS) A )",
+                "personil": [
+                    "Hasan Dwi Cahyono",
+                    "Haryono Setiadi",
+                    "Afrizal Doewes",
+                    "Ardhi Wijayanto",
+                    "Rini Anggrainingsih"
+                ],
+                "tahun": 2024,
+                "dana": "Rp. 90.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "REKOMENDASI CALON PELANGGAN MERCHANT QRIS DENGAN K-MODES CLUSTERING",
+                "leader": "Dewi Wisnu Wardani",
+                "skema": "PNBP ( PENELITIAN HIBAH GRUP RISET (PENELITIAN HGR-UNS) B )",
+                "personil": [
+                    "Ardhi Wijayanto",
+                    "Haryono Setiadi",
+                    "Hasan Dwi Cahyono"
+                ],
+                "tahun": 2023,
+                "dana": "Rp. 48.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "SPLINE FLOW BERBASIS KUBIK RASIONAL UNTUK PEMODELAN GENERATIF",
+                "leader": "Hasan Dwi Cahyono",
+                "skema": "MANDIRI ( PENELITIAN MANDIRI )",
+                "personil": [
+                    "Dewi Wisnu Wardani"
+                ],
+                "tahun": 2022,
+                "dana": "Rp. 10.000.000",
+                "status": "Approved",
+                "sumber": "INTERNAL SOURCE"
+            },
+            {
+                "judul": "MAGNIFIKASI PERBAIKAN CITRA DIJITAL MULTI RESOLUSI DENGAN METODE HYBRID (LOW PASS FILTER DAN BILINEAR INTERPOLATION)",
+                "leader": "Cahyo Darujati",
+                "skema": "Penelitian Kompetitif Nasional ( PDP/Dosen Pemula )",
+                "personil": [
+                    "Hasan Dwi Cahyono"
+                ],
+                "tahun": 2013,
+                "dana": "Rp. 12.500.000",
+                "status": "Approved",
+                "sumber": "SIMLITABMAS SOURCE"
+            }
+        ]
+    }
+]
