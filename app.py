@@ -1257,7 +1257,7 @@ def main():
         col_d, col_s = st.columns([2.5, 1], gap="large")
         with col_d:
             st.markdown('<div class="sec-head">Mata Kuliah yang Paling Relevan</div>', unsafe_allow_html=True)
-            st.markdown('<div class="info-box">Mata kuliah di bawah ini dipilih secara semantik berdasarkan kecocokan makna — bukan sekadar kesamaan kata.</div>', unsafe_allow_html=True)
+            st.markdown('<div class="info-box">Mata kuliah di bawah ini dipilih secara semantik berdasarkan kecocokan makna.</div>', unsafe_allow_html=True)
             for doc, sc in hasil.get("kurikulum", []):
                 mk = doc.metadata.get("mata_kuliah", "—")
                 pct = min(sc / 0.5 * 100, 100)
@@ -1414,7 +1414,7 @@ def main():
         st.markdown(
             '<div class="info-box">'
             'Analisis ini dihasilkan oleh '
-            'berdasarkan data dosen dan kurikulum — bukan pengetahuan umum.'
+            'berdasarkan data dosen dan kurikulum.'
             '</div>',
             unsafe_allow_html=True,
         )
