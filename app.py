@@ -138,6 +138,24 @@ CSS = """
 }
 .hero-pill-num { font-size:0.95rem; font-weight:800; color:#1976D2; }
 
+/* hero centered layout */
+.hero { text-align:center; }
+.hero-eyebrow {
+    font-size:0.72rem; font-weight:600; color:rgba(21,101,192,0.5);
+    letter-spacing:0.14em; text-transform:uppercase; margin-bottom:0.45rem;
+}
+.hero-stats {
+    display:flex; justify-content:center; gap:2.5rem; margin-top:1.3rem; flex-wrap:wrap;
+}
+.hero-stat { text-align:center; }
+.hero-stat-num {
+    font-size:2rem; font-weight:800; color:#1565C0; display:block; line-height:1;
+}
+.hero-stat-label {
+    font-size:0.7rem; font-weight:600; color:rgba(21,101,192,0.48);
+    text-transform:uppercase; letter-spacing:0.09em; display:block; margin-top:0.25rem;
+}
+
 /* how it works */
 .how-wrap {
     display:flex; align-items:stretch; gap:0; position:relative;
@@ -511,75 +529,76 @@ select:focus,input:focus { border-color:#1976D2 !important; box-shadow:0 0 0 3px
     backdrop-filter:blur(18px) !important;
     overflow-x:hidden !important;
     overflow-y:auto !important;
-    max-height:80vh !important;
-    min-width:540px !important;
-    max-width:700px !important;
+    max-height:82vh !important;
+    min-width:600px !important;
+    max-width:780px !important;
 }
 [data-testid="stPopoverBody"] {
     font-family:'Plus Jakarta Sans',sans-serif !important;
-    padding:2rem 2.4rem !important;
-    min-width:520px !important;
+    padding:2.6rem 3rem !important;
+    min-width:580px !important;
+    line-height:1.9 !important;
 }
 
 /* ── popover content components ── */
 .pop-header {
     display:flex; align-items:center; justify-content:space-between;
-    gap:1rem; margin-bottom:1.5rem;
-    padding-bottom:1.1rem;
+    gap:1rem; margin-bottom:1.8rem;
+    padding-bottom:1.3rem;
     border-bottom:1.5px solid rgba(33,150,243,0.18);
 }
-.pop-title { font-size:1rem; font-weight:800; color:#0D47A1; line-height:1.4; }
+.pop-title { font-size:1.05rem; font-weight:800; color:#0D47A1; line-height:1.5; }
 .pop-score {
     background:linear-gradient(135deg,rgba(144,202,249,0.35),rgba(187,222,251,0.5));
     border:1px solid rgba(33,150,243,0.28);
     color:#1565C0; font-size:0.72rem; font-weight:700;
-    padding:0.28rem 0.9rem; border-radius:999px; flex-shrink:0;
+    padding:0.32rem 1rem; border-radius:999px; flex-shrink:0;
     white-space:nowrap;
 }
 .pop-body { font-family:'Plus Jakarta Sans',sans-serif; }
 .cpmk-title {
-    font-size:0.82rem; font-weight:700; color:#1565C0;
-    margin:0 0 1.1rem; line-height:1.65;
-    padding:0.75rem 1rem;
+    font-size:0.85rem; font-weight:700; color:#1565C0;
+    margin:0 0 1.2rem; line-height:1.75;
+    padding:0.9rem 1.1rem;
     background:rgba(219,234,254,0.45); border-radius:10px;
 }
 .cpmk-item {
-    display:flex; gap:1rem; align-items:flex-start;
+    display:flex; gap:1.1rem; align-items:flex-start;
     background:rgba(144,202,249,0.14); border:1px solid rgba(33,150,243,0.18);
-    border-radius:12px; padding:1rem 1.1rem; margin-bottom:0.7rem;
+    border-radius:12px; padding:1.1rem 1.3rem; margin-bottom:0.85rem;
 }
 .cpmk-lbl {
     font-size:0.65rem; font-weight:800; color:#1976D2;
     background:rgba(187,222,251,0.7); border:1px solid rgba(33,150,243,0.28);
-    border-radius:6px; padding:0.2rem 0.6rem;
-    white-space:nowrap; flex-shrink:0; line-height:2;
+    border-radius:6px; padding:0.25rem 0.7rem;
+    white-space:nowrap; flex-shrink:0; line-height:2.2;
     letter-spacing:0.04em;
 }
 .cpmk-txt {
-    font-size:0.83rem; color:rgba(13,59,110,0.82);
-    line-height:1.75; padding-top:0.12rem;
+    font-size:0.85rem; color:rgba(13,59,110,0.82);
+    line-height:1.9; padding-top:0.15rem;
 }
 .cpmk-body {
-    font-size:0.81rem; color:rgba(13,59,110,0.65);
-    line-height:1.78; margin:0.9rem 0 0;
-    padding:1rem 1.2rem;
+    font-size:0.83rem; color:rgba(13,59,110,0.65);
+    line-height:1.9; margin:1rem 0 0;
+    padding:1.1rem 1.4rem;
     background:rgba(240,248,255,0.8); border-radius:10px;
     border-left:3px solid rgba(33,150,243,0.3);
 }
 .pop-section-lbl {
     font-size:0.65rem; font-weight:800; letter-spacing:0.12em;
     text-transform:uppercase; color:rgba(25,118,210,0.5);
-    margin-bottom:0.65rem;
+    margin-bottom:0.8rem; margin-top:0.4rem;
 }
 .pub-item {
-    font-size:0.83rem; color:rgba(13,59,110,0.8); line-height:1.68;
-    padding:0.85rem 1.1rem; margin-bottom:0.5rem;
+    font-size:0.85rem; color:rgba(13,59,110,0.8); line-height:1.85;
+    padding:1rem 1.3rem; margin-bottom:0.65rem;
     background:rgba(144,202,249,0.13); border:1px solid rgba(33,150,243,0.15);
     border-radius:10px; border-left:3px solid rgba(25,118,210,0.38);
 }
 .pub-empty {
     font-size:0.78rem; color:rgba(21,101,192,0.38);
-    font-style:italic; padding:0.5rem 0;
+    font-style:italic; padding:0.6rem 0;
 }
 [data-testid="stPopoverBody"] p,
 [data-testid="stPopoverBody"] li,
@@ -812,7 +831,7 @@ def _md2html(text: str) -> str:
                 html.append("</ul>"); ctx = None
             blank_seen = False
             if ctx != "ol":
-                html.append("<ol>"); ctx = "ol"
+                html.append(f'<ol start="{m.group(1)}">'); ctx = "ol"
             html.append(f"<li>{_inline(m.group(2))}</li>")
             continue
         if s.startswith("- ") or s.startswith("* "):
