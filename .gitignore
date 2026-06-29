@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.claude/
+venv/
+.env
+.DS_Store
